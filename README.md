@@ -6,6 +6,9 @@
 
 I am a Software Architect and Technical Lead passionate about designing scalable, cloud-native enterprise systems and mentoring high-performing engineering teams. I specialize in bridging the gap between robust backend architectures and intelligent, AI-driven applications.
 
+
+![Azure](https://img.shields.io/badge/Azure-Cloud-blue) ![ASP.NET](https://img.shields.io/badge/ASP.NET-Core-purple) ![Kubernetes](https://img.shields.io/badge/Kubernetes-K8s-blue) ![React](https://img.shields.io/badge/React-Frontend-61DAFB) ![Vue](https://img.shields.io/badge/Vue.js-Frontend-42B883)
+
 ---
 
 ## 👨‍💼 What I Do
@@ -25,7 +28,6 @@ I am a Software Architect and Technical Lead passionate about designing scalable
 | **Frontend** | React, Vue.js |
 | **Data & Storage** | SQL, Advanced Database Design |
 | **AI & Automation** | AI Applications & Integrations |
-
 ---
 
 ## 🌱 Current Focus & Continuous Learning
