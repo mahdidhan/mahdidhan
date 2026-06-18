@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" width="100%" alt="Mahdi Hamed Banner">
+</p>
 # Hi, I'm Mahdi Hamed 👋
 ### **Software Architect | Technical Lead | Cloud & AI Enthusiast**
 
