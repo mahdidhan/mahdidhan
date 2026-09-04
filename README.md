@@ -59,6 +59,9 @@ Feel free to reach out if you want to talk shop about:
 
 * 📧 **Email:** [mahdidhan@gmail.com](mailto:mahdidhan@gmail.com) 
 * 💼 **LinkedIn:** [linkedin.com/in/mahdi-hamed-4942b81b3](https://linkedin.com/in/mahdi-hamed-4942b81b3) 
+<a href="https://buymeacoffee.com/mahdidhan" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 217px !important;">
+</a>
 
 ---
 
